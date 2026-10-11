@@ -10,9 +10,9 @@ listing:
     featured: true
 ---
 
-This is where I collect the software, websites and tutorials I working on.
+This is where I collect the software, websites and tutorials I am working on.
 
-The main focus is on the R package [geomattR](https://github.com/gortegasolis/geomattR) which offers a collection of shape indices for analyzing the geometry of spatial polygons.
+The name of this website comes from my R package [geomattR](https://github.com/gortegasolis/geomattR) which offers a collection of shape indices for analyzing the geometry of spatial polygons.
 
 ::: {.home-links}
 [Projects](projects.qmd){.btn .btn-primary}
