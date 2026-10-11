@@ -23,9 +23,9 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/gabriel-ortega-solis
         aria-label: LinkedIn
-      - icon: twitter-x
-        href: https://x.com/GOrtegaSolis
-        aria-label: X / Twitter
+      - icon: bluesky
+        href: https://bsky.app/profile/gortegasolis.bsky.social
+        aria-label: Bluesky
   page-footer:
     left: "© 2026 Gabriel Ortega-Solis"
     right: "Built with [Quarto](https://quarto.org/)"
