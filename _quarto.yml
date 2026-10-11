@@ -33,6 +33,6 @@ website:
 format:
   html:
     theme:
-      light: [cosmo, light.scss, styles.scss]
       dark: [cosmo, dark.scss, styles.scss]
+      light: [cosmo, light.scss, styles.scss]
     toc: false
