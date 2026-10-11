@@ -29,10 +29,3 @@
   website: https://epifitas.cl/
   code: https://github.com/gortegasolis/Epifitas.cl
   featured: true
-
-- title: geo_explorer_website
-  description: >
-    A small geospatial data explorer: a FastAPI + DuckDB API with a static
-    Leaflet frontend.
-  categories: [Python, Web]
-  code: https://github.com/gortegasolis/geo_explorer_website
