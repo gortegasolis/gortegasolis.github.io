@@ -15,7 +15,7 @@ about:
       href: https://www.linkedin.com/in/gabriel-ortega-solis
 ---
 
-I hold a Ph.D. in forest sciences and work at the Czech University of Life Sciences Prague. My research sits between conservation biology, sustainability and macroecology, and much of it ends up as code: R packages, data pipelines and web tools for exploring spatial biodiversity data.
+I hold a Ph.D. in forest sciences and work at the Czech University of Life Sciences Prague. My work sits between geospatial databases, a lot of coding and biodiversity studies.
 
 I use GitHub as my portfolio and playground, and I try to publish the tools and tutorials I write along the way.
 
