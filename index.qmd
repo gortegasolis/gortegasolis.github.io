@@ -1,0 +1,25 @@
+---
+title: "Gabriel Ortega-Solis"
+subtitle: "Forest scientist working at the intersection of conservation biology, macroecology and data science."
+page-layout: full
+title-block-banner: false
+listing:
+  id: featured
+  contents: data/projects.yml
+  template: _templates/cards.ejs
+  include:
+    featured: true
+---
+
+This is where I collect the software, websites and tutorials I build.
+
+::: {.home-links}
+[Projects](projects.qmd){.btn .btn-primary}
+[Tutorials](tutorials.qmd){.btn .btn-outline-primary}
+[About me](about.qmd){.btn .btn-outline-primary}
+:::
+
+## Featured
+
+::: {#featured}
+:::

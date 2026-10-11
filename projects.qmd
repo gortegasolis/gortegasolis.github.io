@@ -1,0 +1,8 @@
+---
+title: "Projects"
+description: "R packages, software and websites."
+page-layout: full
+listing:
+  contents: data/projects.yml
+  template: _templates/cards.ejs
+---

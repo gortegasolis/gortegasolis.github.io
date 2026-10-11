@@ -1,0 +1,38 @@
+# One entry per project. `website` and `code` are optional; set
+# `featured: true` to also show the project on the home page.
+
+- title: geomattR
+  description: >
+    Geometric and morphometric attributes of spatial polygons: area, perimeter,
+    compactness, elongation, orientation, fractal dimension and other shape
+    indices. My first R package, and the name behind this domain.
+  categories: [R package]
+  website: https://gortegasolis.github.io/geomattR/
+  code: https://github.com/gortegasolis/geomattR
+  featured: true
+
+- title: Frescalo_rs
+  description: >
+    A behaviour-preserving Rust port of Mark Hill's FRESCALO suite for
+    correcting sampling effort in species occurrence data, with configurable
+    neighbourhoods and optional geodesic distances.
+  categories: [Rust]
+  website: https://gortegasolis.github.io/Frescalo_rs/
+  code: https://github.com/gortegasolis/Frescalo_rs
+  featured: true
+
+- title: Epífitas.cl
+  description: >
+    A website about epiphytes, climbers and other plants that live on trees,
+    with species profiles and distribution maps built from GBIF records.
+  categories: [Website, Español]
+  website: https://epifitas.cl/
+  code: https://github.com/gortegasolis/Epifitas.cl
+  featured: true
+
+- title: geo_explorer_website
+  description: >
+    A small geospatial data explorer: a FastAPI + DuckDB API with a static
+    Leaflet frontend.
+  categories: [Python, Web]
+  code: https://github.com/gortegasolis/geo_explorer_website

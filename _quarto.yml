@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - CNAME
+
+website:
+  title: "Gabriel Ortega-Solis"
+  description: "Projects, tutorials and software by Gabriel Ortega-Solis: forest sciences, conservation biology and data science."
+  site-url: https://geomattr.org
+  navbar:
+    left:
+      - href: projects.qmd
+        text: Projects
+      - href: tutorials.qmd
+        text: Tutorials
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/gortegasolis
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/gabriel-ortega-solis
+        aria-label: LinkedIn
+      - icon: twitter-x
+        href: https://x.com/GOrtegaSolis
+        aria-label: X / Twitter
+  page-footer:
+    left: "© 2026 Gabriel Ortega-Solis"
+    right: "Built with [Quarto](https://quarto.org/)"
+
+format:
+  html:
+    theme:
+      light: [cosmo, light.scss, styles.scss]
+      dark: [cosmo, dark.scss, styles.scss]
+    toc: false

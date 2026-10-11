@@ -1,0 +1,10 @@
+# One entry per tutorial. `website` and `code` are optional.
+
+- title: Preparing and submitting jobs to an HPC cluster
+  description: >
+    A short introduction to working on HPC with VS Code and Mamba environments.
+    Talk given at the SciSeminar, Department of Spatial Sciences, Czech
+    University of Life Sciences Prague.
+  categories: [HPC, VS Code, Mamba]
+  website: https://gortegasolis.github.io/HPC-VSCode-Mamba_SciSeminar/
+  code: https://github.com/gortegasolis/HPC-VSCode-Mamba_SciSeminar

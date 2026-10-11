@@ -1,0 +1,23 @@
+```{=html}
+<div class="list grid quarto-listing-cols-3">
+<% for (const item of items) { %>
+  <div class="g-col-1" <%= metadataAttrs(item) %>>
+    <div class="card h-100 project-card">
+      <div class="card-body d-flex flex-column">
+        <h3 class="card-title listing-title"><%= item.title %></h3>
+        <% if (item.categories) { %>
+        <div class="project-tags">
+          <% for (const cat of item.categories) { %><span class="badge"><%= cat %></span><% } %>
+        </div>
+        <% } %>
+        <p class="card-text listing-description"><%= item.description %></p>
+        <div class="project-links mt-auto">
+          <% if (item.website) { %><a href="<%- item.website %>"><i class="bi bi-globe"></i> Website</a><% } %>
+          <% if (item.code) { %><a href="<%- item.code %>"><i class="bi bi-github"></i> Code</a><% } %>
+        </div>
+      </div>
+    </div>
+  </div>
+<% } %>
+</div>
+```
